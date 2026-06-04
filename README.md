@@ -56,7 +56,27 @@ This dashboard helps answer:
 
 ## Workflow
 
-Raw Data → Data Cleaning → Analysis → Pivot Tables → Dashboard → Insights
+Raw Data
+
+↓
+
+Data Cleaning
+
+↓
+
+Data Validation
+
+↓
+
+Metric Calculation
+
+↓
+
+Dashboard Development
+
+↓
+
+Business Insights
 
 ## Project Files
 
