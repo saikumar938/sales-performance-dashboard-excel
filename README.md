@@ -25,22 +25,21 @@ This dashboard helps answer:
 - Data Visualization
 
 ## Dashboard Preview
-
 ### Main Dashboard
 
 ![Dashboard Overview](Sales-performance-dashboard/images/Dashboard-Overview.png)
 
 ### Top Sales Executives
 
-![Top Sales](images/top-sales-performers.png)
+![Top Sales](Sales-performance-dashboard/images/top-sales-performers.png)
 
 ### Target Achievement Analysis
 
-![Target Achievement](images/target-achievement.png)
+![Target Achievement](Sales-performance-dashboard/images/target-achievement.png)
 
 ### Away From Target Analysis
 
-![Performance Gap](images/performance-gap.png)
+![Performance Gap](Sales-performance-dashboard/images/performance-gap.png)
 
 ## Key Features
 
