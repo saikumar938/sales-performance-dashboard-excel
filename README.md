@@ -28,7 +28,7 @@ This dashboard helps answer:
 
 ### Main Dashboard
 
-![Dashboard Overview](images/Dashboard-Overview.png)
+![Dashboard Overview](Sales-performance-dashboard/images/Dashboard-Overview.png)
 
 ### Top Sales Executives
 
